@@ -1,0 +1,17 @@
+{
+  "name": "friendly-logging",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc index.ts"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dateformat": "^4.4.1",
+    "node-emoji": "^1.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
